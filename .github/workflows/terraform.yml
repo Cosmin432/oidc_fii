@@ -68,7 +68,7 @@ jobs:
       #   run: |
       #     echo "##CloudPulse Deployment Complete!" >> $GITHUB_STEP_SUMMARY
       #     echo "Your infrastructure is live. Use the links below to access your services:" >> $GITHUB_STEP_SUMMARY
-      #     echo "" >> $GITHUB_STEP_SUMMARYttt11111
+      #     echo "" >> $GITHUB_STEP_SUMMARY
       #     echo "| Service | Link |" >> $GITHUB_STEP_SUMMARY
       #     echo "| :--- | :--- |" >> $GITHUB_STEP_SUMMARY
       #     echo "| **Flask Application** | [Click here to Open]($(terraform output -raw app_url)) |" >> $GITHUB_STEP_SUMMARY
